@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/web-pariwisata/static/css/main.f8385285.css",
+    "main.js": "/web-pariwisata/static/js/main.1b1d28c0.js",
+    "static/js/453.2ff4d8c8.chunk.js": "/web-pariwisata/static/js/453.2ff4d8c8.chunk.js",
+    "static/media/3.jpg": "/web-pariwisata/static/media/3.84d5235cc693e15661d6.jpg",
+    "static/media/2.jpg": "/web-pariwisata/static/media/2.bbb41348bb839b9124d8.jpg",
+    "static/media/1.jpg": "/web-pariwisata/static/media/1.509d4d795248ac9962f3.jpg",
+    "static/media/4.jpg": "/web-pariwisata/static/media/4.0c7885e97d08f0a61db1.jpg",
+    "static/media/night.jpg": "/web-pariwisata/static/media/night.ac6d287d5d0014553b87.jpg",
+    "index.html": "/web-pariwisata/index.html",
+    "main.f8385285.css.map": "/web-pariwisata/static/css/main.f8385285.css.map",
+    "main.1b1d28c0.js.map": "/web-pariwisata/static/js/main.1b1d28c0.js.map",
+    "453.2ff4d8c8.chunk.js.map": "/web-pariwisata/static/js/453.2ff4d8c8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8385285.css",
+    "static/js/main.1b1d28c0.js"
+  ]
+}
